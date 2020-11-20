@@ -20,10 +20,10 @@
 [百度](https://www.baidu.com)
 
 ```python
-print("hello python")
+print("hello world")
 ```
-`python
-print("hello python")
+`
+print("hello world")
 `
 
 | 姓名 | 班级 | 学号 |
